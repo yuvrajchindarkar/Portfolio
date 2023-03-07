@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+.nav-link:hover {
+  color: rgb(6, 2, 255) !important;
+  text-decoration: underline;
+  text-decoration-color: red;
+  text-decoration-thickness: 4px;
+}
+
+.home-1 {
+  height: 500px;
+  width: auto !important;
+}
+
+.home .home-1 .home-2 {
+  margin: 100px;
+}
+
+.home .name {
+  font-family: "Sriracha", cursive;
+  color: blue;
+  font-style: inherit;
+}
+
+.home .name1 {
+  font-family: "Cutive Mono", monospace;
+}
+
+a {
+  text-decoration: none;
+}
